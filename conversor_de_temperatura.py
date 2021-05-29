@@ -1,9 +1,7 @@
-from Celsius import celsius_para_fahrenheit
-from Celsius import  celsius_para_kelvin
-from Fahrenheit import fahrenheit_para_celsius
-from Fahrenheit import fahrenheit_para_kelvin
-from Kelvin import  kelvin_para_fahrenheit
-from Kelvin import kelvin_para_celsius
+from Celsius import celsius_para_fahrenheit, celsius_para_kelvin
+from Fahrenheit import fahrenheit_para_celsius, fahrenheit_para_kelvin
+from Kelvin import  kelvin_para_fahrenheit, kelvin_para_celsius
+
 #Variáveis
 temp = 0
 celsius = 1
